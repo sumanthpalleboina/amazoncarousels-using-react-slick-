@@ -1,0 +1,12 @@
+.popup-content {
+  background-color: #ffffff;
+  border-radius: 16px;
+  width: 750px;
+  height: 460px;
+}
+@media (max-width: 768px) {
+  .popup-content {
+    width: 90%;
+    height: 50%;
+  }
+}
